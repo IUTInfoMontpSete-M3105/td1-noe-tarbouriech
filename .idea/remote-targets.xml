@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="tarbouriechn@162.38.222.93:6666" type="ssh/sftp">
+        <config>
+          <option name="projectRootOnTarget" value="$PROJECT_DIR$/../../../../../ann2/tarbouriechn/td1-noe-tarbouriech" />
+          <option name="serverName" value="tarbouriechn@162.38.222.93:6666 password" />
+          <option name="useRsync" value="true" />
+        </config>
+        <ContributedStateBase type="JavaLanguageRuntime">
+          <config>
+            <option name="javaVersionString" value="11.0.11" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
